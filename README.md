@@ -23,7 +23,7 @@ The project involved:
 
 ## File Descriptions
 There is one exploratory notebook showing my approach to predicting churn. Markdown cells and comments were used throughout to explain the process taken.
-A CSV file which is telco customer data
+And also CSV file which is telco customers' data
 
 ## Medium Blog Post 
 The main findings of the code can be found at the Medium Blog post available [here](https://medium.com/@nmuthamgame/predict-churn-with-scikit-learn-and-pandas-47e298bfafc9) explaining the technical details of my project.
