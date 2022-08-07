@@ -1,5 +1,5 @@
 # DS-Capstone-Project
-# Predicting churn with Scikit Learn and Pandas
+# Predicting customer churn with Scikit Learn and Pandas
  
 
 ## Installations
